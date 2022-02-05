@@ -1,0 +1,17 @@
+body{
+    background-color: cyan;
+}
+#span1{
+   height: 1000px;
+   width: 1000px;
+}
+#duster{
+    height: 200px;
+    width: 200px;
+}
+#mouse{
+  height: 200px;
+  width: 200px;  
+}
+#span2{height: 1000opx;
+width: 1000px;}
